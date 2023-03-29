@@ -1,2 +1,2 @@
 # hamming-code-c
-Code for hamming code and correction using C
+Easy code for hamming code and correction using C
